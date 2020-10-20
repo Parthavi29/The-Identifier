@@ -1,0 +1,36 @@
+#h3
+  {
+    font-weight: 700;
+    font-family: 'Calligraffitti', cursive;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    width: 70%;
+    margin: 0px;
+    box-shadow:5px 5px 5px lightskyblue;
+  }
+  .heading
+  {
+    background: white ; 
+    border-radius: 20px; 
+    color: palevioletred;
+    box-shadow:5px 5px 5px lightskyblue;
+    
+  }
+  .resultp
+  {
+    box-shadow:5px 5px 5px lightskyblue;
+    font-size: 20px;
+    color: purple;
+    width: 40%;
+  }
+
+body{
+  background-image: url("https://c0.wallpaperflare.com/preview/11/995/787/vintage-flower-background-watercolor.jpg");
+  background-position: center;
+  background-size: cover;
+}
+
+#p1{
+  margin-top: 350px;
+}
+ 
